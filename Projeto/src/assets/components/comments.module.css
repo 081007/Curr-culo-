@@ -1,0 +1,35 @@
+.comments{
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.comments img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 8px;
+}
+
+.commentsContent{
+    background: var(--gray-700);
+    border-radius: 8px;
+    padding: 0.975rem;
+    margin-top: 0.975rem;
+}
+
+.commentsContent p{
+    margin-top: 1rem;
+}
+
+.Content2{
+    background: var(--gray-700);
+    border-radius: 8px;
+    padding: 0.975rem;
+    margin-top: 0.975rem;
+}
+.Content3{
+    background: var(--gray-700);
+    border-radius: 8px;
+    padding: 0.975rem;
+    margin-top: 0.975rem;
+}

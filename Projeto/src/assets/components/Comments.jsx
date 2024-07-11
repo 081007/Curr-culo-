@@ -29,7 +29,7 @@ export default function Comments() {
                     <strong>Buscando</strong>
                 </div>
             </header>
-            <p>Busco um trabalho que me permita trabalhar de casa , ou no local, só 3 dias na semana, na terça e  quinta à tarde, e sábado de manhã,  por conta da minha escola e cursos.</p>
+            <p>Busco um trabalho que me permita trabalhar de casa, por conta da minha escola e cursos.</p>
         </div>
       </div>
     </div>

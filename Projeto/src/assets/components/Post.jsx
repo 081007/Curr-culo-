@@ -23,8 +23,7 @@ export default  function Post() {
         <p>Cursando o Ensino Médio</p>
         </div>  
 
-        <p><a>Link Repositórios</a></p>
-        <p><a>Ùltimo Projeto</a></p>
+       
         </div>
         
          

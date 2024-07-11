@@ -9,9 +9,7 @@ export default function Sidebar() {
         <strong>Letícia</strong>
         <span></span>
       </div>
-      <footer>
-        <a href="">Seu Github</a>
-      </footer>
+      
     </aside>
   )
 }

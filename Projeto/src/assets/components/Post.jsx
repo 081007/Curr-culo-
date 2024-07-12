@@ -22,7 +22,8 @@ export default  function Post() {
        <strong>Escolaridade</strong>
         <p>Cursando o Ensino Médio</p>
         </div>  
-
+        <strong>Número de contato</strong>
+        <p>9140-1963</p>
        
         </div>
         
